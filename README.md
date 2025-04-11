@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Marco Carvajal
 
-<!--
-**codigoit/codigoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desarrollador Backend con más de 20 años de experiencia en tecnología, especializado en .NET, APIs, arquitectura limpia y soluciones empresariales.
 
-Here are some ideas to get you started:
+💼 Experiencia:
+- Desarrollo de software freelance (últimos 2 años)
+- Liderazgo técnico en equipos de desarrollo
+- Especialista en APIs, autenticación y automatización
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tecnologías principales:
+- C#, .NET 6/7/8, ASP.NET Core
+- Entity Framework Core, SQL Server
+- Azure / AWS (nivel básico-medio)
+- Git, GitHub, Docker
+
+🚀 Actualmente enfocado en:
+- Construcción de portafolio profesional
+- Proyectos personales y colaborativos
+- Búsqueda de nuevas oportunidades laborales
+
+📫 Contacto:
+- [LinkedIn](https://www.linkedin.com/in/marco-carvajal-alvarado-9215aab/)
+- Email: creandocodigoit@gmail.com
+
+---
+
+> “La tecnología bien usada cambia vidas. El código con propósito transforma negocios.”  
